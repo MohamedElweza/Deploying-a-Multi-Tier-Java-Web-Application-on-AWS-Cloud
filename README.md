@@ -27,7 +27,8 @@ The architecture consists of multiple AWS services interacting securely:
 - *AWS Elastic Load Balancer* – Balances incoming traffic across EC2 instances.
 - *AWS SQS (Message Queue)* – Ensures smooth async communication.
 
-![Project Architecture](./architecture.gif)![2025-02-1217-26-21online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2e45be72-e98f-4138-80e8-c3f195d1d9bb)
+![2025-02-1217-26-21online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b845dd12-526d-41a0-ac4b-3e975931969c)
+
 
 
 
